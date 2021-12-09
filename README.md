@@ -50,7 +50,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br/>
+<h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/220x220/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/f621bcfc-41b1-48db-a3b7-9dfdd52e7fec/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
 
 ### ⚙️ &nbsp;GitHub Analytics
 
