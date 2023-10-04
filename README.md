@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=RiyaRaikar&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Java, AWS, SQL, etc.**
+- 🌱 I’m currently learning **Java, AWS, SQL, C#, C++, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/RiyaRaikar?tab=repositories)
 
-- 💬 Ask me about **C** and **C++**
+- 💬 Ask me about **Java** and **SQL**
 
 - 📫 How to reach me **riyaraikar001@gmail.com**
 
