@@ -25,7 +25,6 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -47,7 +46,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 <br/>
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
